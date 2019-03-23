@@ -27,4 +27,6 @@ npm run e2e
 npm test
 ```
 
+OBS: Para que o programa funcione corretamente, deve inserir a sua API KEY da Marvel Developer Portal em um arquivo /config/dev.env.js
+
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
